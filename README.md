@@ -1,16 +1,65 @@
-### ¡Hola! Soy Mateo 👋
-#### Analista de Datos & Especialista en Automatización 🚀
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=220&section=header&text=Mateo%20Barona&fontSize=70&fontColor=ffffff&fontAlign=50" width="100%"/>
+</div>
 
-Soy estudiante y pasante apasionado por transformar datos crudos en decisiones de negocio y eliminar el trabajo manual repetitivo. Actualmente optimizando procesos logísticos en la industria automotriz.
+### 👋 Sobre Mí: Analista de Datos & Especialista en Automatización
 
-🛠 **Mi Stack Tecnológico:**
-* **Automatización:** n8n, Make, Python Scripts.
-* **Data & ETL:** SQL, Pentaho PDI, Apache Hop, Excel.
-* **Visualización:** Power BI (DAX & Data Modeling).
+**"Transformo datos en decisiones y automatizo el trabajo manual."**
 
-📈 **Hitos Recientes:**
-* Reduje en un **80%** el tiempo de carga de reportes críticos usando optimización SQL.
-* Desarrollé un Chatbot de Inventario para logística usando n8n.
+Soy estudiante y pasante en **Ambacar**, apasionado por conectar puntos entre la Ingeniería de Datos y la Eficiencia Operativa. Mi enfoque es híbrido: construyo la infraestructura de datos (ETL/SQL) y diseño los bots que la utilizan (n8n/Python).
 
-📫 **Contáctame:**
-www.linkedin.com/in/mateo-barona-18638420b | mateobarona3102@gmail.com
+---
+
+### 🛠️ Tech Stack & Herramientas
+
+**Automatización & Backend**
+<p>
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make-6a1b9a?style=for-the-badge&logo=integromat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
+**Data, BI & Machine Learning**
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pentaho-000000?style=for-the-badge&logo=hitachi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Proyectos de Impacto (Automatización & BI)
+
+| Proyecto | Impacto / Resultado | Stack |
+| :--- | :--- | :--- |
+| **🤖 AI Calendar Assistant** | Agente inteligente que gestiona agenda por voz/texto con lógica anti-conflictos. | `n8n` `Gemini AI` `Telegram` |
+| **🚛 Chatbot de Inventario** | Sistema para Ambacar que redujo consultas manuales del equipo logístico. | `n8n` `MySQL` `Webhooks` |
+| **🔄 ETL Cuentas por Cobrar** | Centralización financiera de 3 empresas (Ambacar, Ciauto, Automekano). | `Apache Hop` `Pentaho` |
+| **📊 Optimización BI** | Reducción del **80%** en tiempos de carga optimizando consultas SQL y DAX. | `Power BI` `SQL` |
+
+---
+
+### 🧩 Laboratorio de Código & IA
+*Aquí aplico lógica de programación pura y algoritmos.*
+
+* **🧠 Face Classification Model:** Desarrollo de un modelo de visión por computadora para clasificación de rostros humanos, implementado con **TensorFlow** y servido vía **Flask**.
+* **🐍 Python Data Scripts:** Scripts para limpieza avanzada de datos y manipulación de archivos que exceden las capacidades de herramientas no-code.
+
+---
+
+### 📈 Mis Estadísticas
+
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Languages" />
+  </p>
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/tu-enlace-real">
+    <img src="https://img.shields.io/badge/Conectemos_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
