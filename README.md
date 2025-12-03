@@ -1,25 +1,16 @@
-# ETIQUETA H1
-## ETIQUETA H2
-### Hi there 👋
+### ¡Hola! Soy Mateo 👋
+#### Analista de Datos & Especialista en Automatización 🚀
 
-* Hola
+Soy estudiante y pasante apasionado por transformar datos crudos en decisiones de negocio y eliminar el trabajo manual repetitivo. Actualmente optimizando procesos logísticos en la industria automotriz.
 
-1. Hola
-2. Hola
+🛠 **Mi Stack Tecnológico:**
+* **Automatización:** n8n, Make, Python Scripts.
+* **Data & ETL:** SQL, Pentaho PDI, Apache Hop, Excel.
+* **Visualización:** Power BI (DAX & Data Modeling).
 
-**Hola**
+📈 **Hitos Recientes:**
+* Reduje en un **80%** el tiempo de carga de reportes críticos usando optimización SQL.
+* Desarrollé un Chatbot de Inventario para logística usando n8n.
 
-<!--
-**FlacoBarona/FlacoBarona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contáctame:**
+www.linkedin.com/in/mateo-barona-18638420b | mateobarona3102@gmail.com
