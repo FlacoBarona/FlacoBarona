@@ -49,15 +49,6 @@ Soy estudiante y pasante en **Ambacar**, apasionado por conectar puntos entre la
 
 ---
 
-### 📈 Mis Estadísticas
-
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=FlacoBarona&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlacoBarona&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Languages" />
-  </p>
-</div>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/mateo-barona-18638420b/">
     <img src="https://img.shields.io/badge/Conectemos_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
