@@ -25,7 +25,7 @@ Actualmente: **Pasante de Datos en Ambacar**.
 #### 🔹 Automatización & IA
 | Proyecto | Tipo | Descripción Técnica |
 | :--- | :--- | :--- |
-| **[🤖 AI Calendar Assistant](https://github.com/TU_USUARIO_GITHUB/nombre-repo-calendario)** | `Agentic Workflow` | Sistema RAG ligero que usa **Gemini Pro** + **n8n** para gestión de agenda. Incluye lógica de *pre-validación de conflictos* y manejo de audio (Speech-to-Text). |
+| **[🤖 AI Calendar Assistant](https://github.com/FlacoBarona/Google_Calendar_Assistant)** | `Agentic Workflow` | Sistema RAG ligero que usa **Gemini Pro** + **n8n** para gestión de agenda. Incluye lógica de *pre-validación de conflictos* y manejo de audio (Speech-to-Text). |
 | **🚛 Ambacar Logistics Bot** | `RPA / Chatbot` | Orquestación de consultas SQL a bases de datos de inventario mediante triggers de mensajería (WhatsApp/Telegram). **Impacto:** Reducción de carga manual operativa. |
 
 #### 🔹 Data Engineering & Analytics
@@ -39,9 +39,9 @@ Actualmente: **Pasante de Datos en Ambacar**.
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=midnight-owl&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=38bdf8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FlacoBarona&show_icons=true&theme=midnight-owl&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=38bdf8" />
   <br><br>
-  <a href="https://linkedin.com/in/tu-usuario-real">
+  <a href="https://www.linkedin.com/in/mateo-barona-18638420b/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
