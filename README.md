@@ -8,9 +8,9 @@
 
 ### ⚡ Visión Profesional
 No solo analizo datos; construyo los sistemas que hacen que los datos fluyan.
-Mi especialidad es la **Arquitectura de Automatización**: conectar APIs, limpiar bases de datos complejas y desplegar agentes de IA que resuelven problemas reales de negocio (Logística & Finanzas).
+Mi especialidad es la **Arquitectura de Automatización**: conectar APIs, limpiar bases de datos complejas y desplegar agentes de IA que resuelven problemas reales de negocio.
 
-Actualmente: **Pasante de Datos en Ambacar**.
+Actualmente: **Pasante en Ambacar**.
 
 ---
 
