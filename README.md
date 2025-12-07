@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=200&section=header&text=Mateo%20Barona&fontSize=60&fontColor=0ea5e9&fontAlign=50&fontAlignY=40&descAlign=50&descAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=160&section=header&text=Mateo%20Barona&fontSize=70&fontColor=38bdf8&fontAlign=50&fontAlignY=50" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer;Data+Analyst;Automation+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=94a3b8&center=true&vCenter=true&width=500&lines=Software+Engineer;Data+Analyst;Automation+Specialist;Backend+Developer" alt="Typing SVG" />
   </a>
 </div>
 
