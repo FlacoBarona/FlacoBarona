@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=180&section=header&text=Mateo%20Barona&fontSize=60&fontColor=0ea5e9&desc=Data%20Analyst%20%7C%20Automation%20Specialist%20%7C%20Backend&descSize=20&descAlign=60&descAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=200&section=header&text=Mateo%20Barona&fontSize=60&fontColor=0ea5e9&fontAlign=50&fontAlignY=40&desc=Data%20Analyst%20%7C%20Automation%20Specialist%20%7C%20Backend&descSize=20&descAlign=50&descAlignY=70" width="100%"/>
 </div>
 
 ### ⚡ Visión Profesional
